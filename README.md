@@ -25,3 +25,9 @@ All the datasheets of the components are in this repository.
 
 ## PCB design
 The schematic and the layout are done using KiCAD.
+Here is a visualization of the PCB:
+
+<p>
+  <img src="img/PCB_top_render.svg" alt="drawing" width="450"/>
+  <img src="img/PCB_bottom_render.svg" alt="drawing" width="450"/>
+</p>
