@@ -28,6 +28,6 @@ The schematic and the layout are done using KiCAD.
 Here is a visualization of the PCB:
 
 <p>
-  <img src="img/PCB_top_render.svg" alt="drawing" width="300"/>
-  <img src="img/PCB_bottom_render.svg" alt="drawing" width="300"/>
+  <img src="img/PCB_top_render.svg" alt="drawing" width="350"/>
+  <img src="img/PCB_bottom_render.svg" alt="drawing" width="350"/>
 </p>
